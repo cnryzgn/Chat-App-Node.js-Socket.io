@@ -32,7 +32,10 @@ $ git clone https://github.com/cnryzgn/Chat-App-Node.js-Socket.io.git
 # Open Directory
 $ cd Chat-App-Node.js-Socket.io
 
-# Install and Run
-$ npm install & npm start
+# Install
+$ npm install
+
+# Run
+$ npm start
 
 ```
